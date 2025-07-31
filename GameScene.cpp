@@ -18,7 +18,7 @@ void GameScene::Initialize() {
 	input_ = Input::GetInstance();
 	audio_ = Audio::GetInstance();
 
-	
+	const std::string fullpath=
 
 }
 
